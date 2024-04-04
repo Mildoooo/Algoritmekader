@@ -95,4 +95,11 @@ Overzicht van welke rollen belangrijk zijn te betrekken bij dit bouwblok.
 * Het gebruik van ras of nationaliteit als selectiecriterium binnen een risicoprofiel moet daarnaast noodzakelijk zijn om het gewenste doel tebereiken.
 * Selectiebeslissingen moeten te allen tijde uitlegbaar zijn.
 ## Mogelijke hulpmiddelen en methoden
+* [De handreiking non-discrminatie](https://open.overheid.nl/documenten/ronl-3f9fa69c-acf4-444d-96e1-5c48df00eb3c/pdf)
+* De handreiking  non-discriminatie stelt dat het non-discriminatierecht uitgangspunten geeft en geen ge- of verboden. 
+* Het recht geeft een standaard, een uitgangspunt of een principe, maar daarop bestaan altijd 
+uitzonderingen. 
+* De context speelt een belangrijke rol. Discriminatie (direct/indirect) op basis van directe gronden zoals ras, godsdienst, leeftijd zal weliswaar in veel gevallen verboden zijn, maar je zult altijd de vragen  moeten aflopen of een specifieke geval tot benadeling zal leiden. Vervolgens moet een keuze te rechtvaardigen zijn. Is er een goede reden voor het gemaakte onderscheid? 1) is er een wettelijke uitzondering  En 2) is er een objectieve rechtvaardiging en is er een legitiem doen. Is het middel dat ik gebruik om mijn doel te bereiken passend, noodzakelijk en evenredig? 
+     
 * [Fairness Handbook](https://amsterdamintelligence.com/resources/the-fairness-handbook)
+
